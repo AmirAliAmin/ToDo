@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+  background-color: black;
+  color: white;
+  overflow: hidden;
+}
+.active{
+  background-color: rgb(5, 84, 5);
+}
